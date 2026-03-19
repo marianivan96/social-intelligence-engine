@@ -10,7 +10,7 @@ Built and tested with 215+ items from 17 sources.
 
 ## Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview1.png)
 
 ---
 
